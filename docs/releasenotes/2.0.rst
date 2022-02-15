@@ -1,0 +1,12 @@
+Version 2.0
+-----------
+
+
+Changes:
+========
+
+* Rewrote all code.
+* Changed import name to `minesweeper`.
+* All functions/class names updated to be more clear.
+* Added `config` to the generator class.
+* Removed `gridInfo` function.

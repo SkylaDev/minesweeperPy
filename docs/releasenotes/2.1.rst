@@ -1,0 +1,15 @@
+Version 2.0
+-----------
+
+
+Changes:
+========
+
+* :py:meth:`Generator.generate()` now returns a :py:class:`GeneratedGrid()` object not a dict.
+* Function names for :py:class:`Generator()` have been changed to semi-camelcase. (Eg: :py:meth:`Generator.generate_raw()` -> :py:meth:`Generator.generateRaw()`)
+
+
+Additions:
+==========
+
+* Old support for :py:class:`Generator()` function names have been retained alongside the new names.
