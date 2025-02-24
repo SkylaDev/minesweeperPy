@@ -1,3 +1,9 @@
+# This project has been removed from PyPi
+
+I have decided to remove minesweeperPy from PyPi as I believe the code due to how old it is and due to my rather limited programming knowledge at the time, is rather bad.
+I have even remade allot of the code allot more efficiently in my own personal projects. If you would like to still use this module you can by installing it via `pip install git+https://github.com/SkylaDev/minesweeperPy.git` however I would recommend you make your own or look online for better examples of Minesweeper generation.
+Thankyou for the 41k downloads of this module while it lasted, and gl with your fun programming adventures! <3
+
 minesweeperPy
 =============
 ##### Created by stshrewsburyDev
